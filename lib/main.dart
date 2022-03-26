@@ -78,7 +78,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         SecondPage(textFromPage1: textController1.text),
                   ),
                 );
-                textController3.clear();
+                textController1.clear();
               },
             ),
           ],
